@@ -68,7 +68,8 @@ Whether you're fixing a typo, improving documentation, or adding a new feature, 
    * Fill out the pull request template if provided  
    * Link to any related issues  
    * Provide a clear description of your changes  
-   * To accept your pull request, we may need you to submit CLA/DCO. If you have signed the CLA for another Block project, you can skip this. You only need to do it once.  If you are submitting a pull request for the first time, just let us know that you have completed the CLA and we can cross-check with your GitHub username.   
+   * To accept your pull request, we may need you to submit CLA/DCO. If you have signed the CLA for another Block project, you can skip this. You only need to do it once.  If you are submitting a pull request for the first time, just let us know that you have completed the CLA and we can cross-check with your GitHub username.
+     * Projects using the Apache license must have a [Developer Certificate of Origin](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin) sign-off on   all commits. This is a statement indicating that you are allowed to make the contribution and that the project has the right to distribute it under its license. When you are ready to commit, use the `--signoff` flag to attach the sign-off to your commit: `git commit --signoff ...`
 3. **Pull Request Guidelines**  
    * Keep PRs focused and reasonable in size \- generally as small as possible to fulfill one atomic feature, task, or bug fix  
    * Include screenshots or examples for UI changes  
